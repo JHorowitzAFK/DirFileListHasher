@@ -1,6 +1,8 @@
 # File Hasher Scripts
 
-These scripts generate a list of all files in a directory, along with their cryptographic hashes, file sizes, and modification timestamps (for macOS).
+These scripts generate a list of all files in a directory, along with their cryptographic hashes, file sizes, and modification timestamps.
+
+They can be used for an internal macOS drive or any external drive hooked up to a Linux machine.
 
 ## 🚀 Usage
 
